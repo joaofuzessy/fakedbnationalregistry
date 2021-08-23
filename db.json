@@ -180,5 +180,69 @@
           "address": "273 Hubbard Street, Carrizo, Wisconsin, 9118",
           "registered": "2019-07-09T03:11:14 +03:00"
         }
+      ],
+      "judicialRecords": [
+        [
+            {
+              "_id": "61231c3f3b064875f33a5066",
+              "occurences": "0"
+            },
+            {
+              "_id": "61231c3fe7b685a0e71763d4",
+              "occurences": "1"
+            },
+            {
+              "_id": "61231c3ff77a397beae3225b",
+              "occurences": "1"
+            },
+            {
+              "_id": "61231c3f67f25f4e593add45",
+              "occurences": "0"
+            },
+            {
+              "_id": "61231c3fed874398f1c5f5d8",
+              "occurences": "0"
+            },
+            {
+              "_id": "61231c3f47d4239cf00ae452",
+              "occurences": "0"
+            },
+            {
+              "_id": "61231c3fa4ae756bb5166870",
+              "occurences": "0"
+            },
+            {
+              "_id": "61231c3f6f94479758b0f1d7",
+              "occurences": "2"
+            },
+            {
+              "_id": "61231c3f5f898779854065f9",
+              "occurences": "0"
+            },
+            {
+              "_id": "61231c3fdca0c853a95efb19",
+              "occurences": "0"
+            },
+            {
+              "_id": "61231c3f5d89fcbb1cfdbba0",
+              "occurences": "0"
+            },
+            {
+              "_id": "61231c3f3d1841ca6c660fb0",
+              "occurences": "0"
+            },
+            {
+              "_id": "61231c3f7d910d3b8c1f2081",
+              "occurences": "3"
+            },
+            {
+              "_id": "61231c3fd2ec4af0b1c7683e",
+              "occurences": "0"
+            },
+            {
+              "_id": "61231c3f711b990929424123",
+              "occurences": "0"
+            }
+          ]
       ]
 }
