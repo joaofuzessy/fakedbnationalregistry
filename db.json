@@ -1,42 +1,6 @@
     {
       "leads": [
       {
-        "_id": "61231c3fed874398f1c5f5d8",
-        "picture": "http://placehold.it/32x32",
-        "birthDate": "5/2/1981",
-        "firstName": "Knowles",
-        "lastName": "Tyler",
-        "gender": "male",
-        "email": "knowlestyler@quinex.com",
-        "phone": "+1 (971) 579-3689",
-        "address": "287 Grand Avenue, Marion, Virginia, 1436",
-        "registered": "2020-12-26T01:57:21 +03:00"
-      },
-      {
-        "_id": "61231c3f47d4239cf00ae452",
-        "picture": "http://placehold.it/32x32",
-        "birthDate": "12/20/1955",
-        "firstName": "Young",
-        "lastName": "Cortez",
-        "gender": "male",
-        "email": "youngcortez@quinex.com",
-        "phone": "+1 (910) 452-3069",
-        "address": "703 Livonia Avenue, Shasta, Washington, 6551",
-        "registered": "2020-06-13T09:43:02 +03:00"
-      },
-      {
-        "_id": "61231c3fa4ae756bb5166870",
-        "picture": "http://placehold.it/32x32",
-        "birthDate": "8/3/2002",
-        "firstName": "Lupe",
-        "lastName": "Atkinson",
-        "gender": "female",
-        "email": "lupeatkinson@quinex.com",
-        "phone": "+1 (881) 583-2282",
-        "address": "939 Tilden Avenue, Echo, Indiana, 3753",
-        "registered": "2016-11-08T05:03:23 +02:00"
-      },
-      {
         "_id": "61231c3f6f94479758b0f1d7",
         "picture": "http://placehold.it/32x32",
         "birthDate": "12/13/1986",
@@ -134,42 +98,7 @@
       }
     ],
     "citizens": [
-        {
-          "_id": "61231c3f3b064875f33a5066",
-          "picture": "http://placehold.it/32x32",
-          "birthDate": "4/16/1966",
-          "firstName": "Whitehead",
-          "lastName": "Mccall",
-          "gender": "male",
-          "email": "whiteheadmccall@quinex.com",
-          "phone": "+1 (821) 438-3381",
-          "address": "142 Cambridge Place, Coventry, Utah, 5062",
-          "registered": "2015-01-24T07:51:12 +02:00"
-        },
-        {
-          "_id": "61231c3fe7b685a0e71763d4",
-          "picture": "http://placehold.it/32x32",
-          "birthDate": "11/29/2002",
-          "firstName": "Ophelia",
-          "lastName": "Moran",
-          "gender": "female",
-          "email": "opheliamoran@quinex.com",
-          "phone": "+1 (860) 500-3639",
-          "address": "636 Malta Street, Whitehaven, Alabama, 713",
-          "registered": "2015-01-09T08:27:03 +02:00"
-        },
-        {
-          "_id": "61231c3ff77a397beae3225b",
-          "picture": "http://placehold.it/32x32",
-          "birthDate": "5/1/1954",
-          "firstName": "Estelle",
-          "lastName": "Wynn",
-          "gender": "female",
-          "email": "estellewynn@quinex.com",
-          "phone": "+1 (917) 551-3356",
-          "address": "214 Engert Avenue, Emison, District Of Columbia, 4890",
-          "registered": "2020-02-20T09:37:29 +03:00"
-        },
+     
         {
           "_id": "61231c3f67f25f4e593add45",
           "picture": "http://placehold.it/32x32",
